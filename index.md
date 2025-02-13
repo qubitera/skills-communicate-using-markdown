@@ -18,3 +18,9 @@ return n < 2 ? n : (fibonacci(n-1) + fibonacci(n-2));
 }
 
 ```
+
+# Creating a list using Markdown
+
+- [ ] use Markdown for the first time
+- [ ] added an image
+- [ ] added a code snippet
